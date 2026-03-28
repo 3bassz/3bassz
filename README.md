@@ -5,17 +5,17 @@
 <h3 align="center">A Passionate Developer, Designer & AI Enthusiast from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Front-End+Developer;Graphic+%26+Video+Designer;AI+Automation+Agency+Founder;Building+Bots+%26+Digital+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Front-End+Developer;Graphic+%26+Video+Designer;AI+Automation+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 What I'm Up To
-- 🔭 Currently developing **J0oke Downloader**, a digital tool for content creators.
-- 🤖 Building an **AI Automation Agency** to help businesses streamline their operations.
-- 💻 Exploring and developing automated **TikTok Bots**.
-- 🌐 Managing and growing the **Nexus Hub** community.
-- 🗣️ Leveraging my background in English and Customer Service to bridge the gap between complex technical development and client needs.
+### 🚀 About Me
+- 🔭 I specialize in building **responsive, high-performance websites** and modern web applications.
+- 🎨 I combine technical development with **creative graphic and video design** to deliver complete and visually appealing digital experiences.
+- 🤖 I am highly interested in **AI Automation**, constantly exploring innovative ways to streamline workflows and build smart digital tools.
+- 💡 I focus on writing **clean, maintainable code** and crafting intuitive **UI/UX designs** that provide real value to users.
+- 🗣️ With a strong background in communication and customer service, I easily bridge the gap between complex technical requirements and business goals to deliver exactly what clients need.
 
 ### 🛠️ Tech Stack & Creative Arsenal
 <p align="center">
@@ -29,8 +29,8 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3bassz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bassz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3bassz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bassz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195"/>
 </p>
 
 ---
